@@ -47,7 +47,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) and prepare to be amazed! 🎭
+Open [https://movies-search-navy.vercel.app/](https://movies-search-navy.vercel.app/) and prepare to be amazed! 🎭
 
 ---
 
