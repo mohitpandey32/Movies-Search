@@ -38,7 +38,7 @@ Get up and running in less than 2 minutes:
 ```bash
 # Clone the magic
 git clone <your-repo-url>
-cd cinematic-search
+cd Movies-Search
 
 # Install dependencies
 npm install
